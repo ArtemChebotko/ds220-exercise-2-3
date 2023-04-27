@@ -57,11 +57,11 @@ With this metadata, the data model must support the following queries:
 
 ✅ Review the contents of the CSV files with video metadata:
 ```
-cat assets/videos_by_genre.csv
+head -n 10 assets/videos_by_genre.csv
 ```
 
 ```
-cat assets/videos_by_actor.csv
+head -n 10 assets/videos_by_actor.csv
 ```
 
 <!-- NAVIGATION -->
